@@ -29,14 +29,6 @@ Example 1:
         - There are 2 strings with the prefix "b".
         The total is answer[3] = 2.
 
-Example 2:
-
-    Input: words = ["abcd"]
-    Output: [4]
-    Explanation:
-        "abcd" has 4 prefixes: "a", "ab", "abc", and "abcd".
-        Each prefix has a score of one, so the total is answer[0] = 1 + 1 + 1 + 1 = 4.
-
 Constraints:
 
 1 <= words.length <= 1000
